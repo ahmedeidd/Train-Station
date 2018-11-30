@@ -1,0 +1,27 @@
+-Name:Ahmed eid farghaly
+-section:1
+
+-Dep:information system(is)
+-project Name:trian Stations
+
+-Description of the project
+The program will display 
+1- Departure station
+2- Arrival station
+3- Type of train
+The user then clicks on the trains display
+It will show the user when the train will depart, when it will arrive, how long it will take the flight, its speed and degree
+
+                 
+-Technologis
+Web design
+Html
+Css
+Html5
+Javascript
+Php
+
+
+
+
+

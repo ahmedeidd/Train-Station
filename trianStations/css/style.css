@@ -1,0 +1,58 @@
+.sel{
+    max-width: 500px;
+    margin: 50px auto;
+}
+.sel .form-control{
+    margin-bottom: 40px;
+    height: 50px;
+    text-align: right;
+}
+.sel .btn{
+    width: 100%;
+    height: 40px;
+}
+.navbar-default {
+    background-color: #d9534f;
+    border-color: #d9534f;
+    color: white
+    
+}
+.navbar-default .navbar-brand {
+    color: white
+}
+.navbar-default .navbar-brand:hover {
+    color: white
+}
+.navbar-default .navbar-toggle {
+    border-color:white
+}
+.navbar-default .navbar-toggle {
+   background-color: #d9534f;
+}
+.table {
+    text-align: right;
+    height: 80px;
+  direction: rtl
+}
+.table th{
+    background-color:#d9534f;
+    color: white;
+ text-align: right;
+    
+ 
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color:white;
+    color: white
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color:#d9534f;
+    color: white
+}
+.panel{
+    text-align: center;
+    font-size: 18px;
+    background-color: #d9534f;;
+    color: white
+}
